@@ -12,7 +12,7 @@ This app helps you **add, complete, and delete tasks** so you can stay organized
 
 ## 📸 Screenshots  
 
-![To-Do App Screenshot](assets/todo-screenshot.png)
+![To-Do App Screenshot](https://github.com/BinaryBar/Todo-List-App/blob/ad09ebedf7e0ada8d5b45f930ebe757c654455c6/Screenshot.png)
 
 ---
 
@@ -58,4 +58,5 @@ This app helps you **add, complete, and delete tasks** so you can stay organized
 🔗 [GitHub Profile](https://github.com/BinaryBar)
 
 Made With ❤️ By Sushmoy
+
 
