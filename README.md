@@ -57,4 +57,5 @@ This app helps you **add, complete, and delete tasks** so you can stay organized
 📧 [paulsushmoy575@gmail.com](mailto:paulsushmoy575@gmail.com)  
 🔗 [GitHub Profile](https://github.com/BinaryBar)
 
-Made With <3 By Sushmoy
+Made With ❤️ By Sushmoy
+
